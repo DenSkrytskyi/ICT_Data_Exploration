@@ -68,7 +68,7 @@ Data sources are official statistics from national and international organizatio
 
 ## Visualizations
 
--The notebook provides line charts, bar charts, and scatter plots to make trends and comparisons intuitive and visually clear:
+The notebook provides line charts, bar charts, and scatter plots to make trends and comparisons intuitive and visually clear:
 
 -Trends in Internet usage and household access over time
 
