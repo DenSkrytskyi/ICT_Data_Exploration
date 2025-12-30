@@ -7,7 +7,7 @@ All visualizations are embedded in the notebook and also saved in the [figures](
 
 ## Project Overview
 
-The goal of this project is to deliver a clear and visual understanding of ICT trends, allowing anyone to grasp key insights **without programming knowledge**.
+The goal of this project is to deliver a clear and visual understanding of ICT trends, allowing anyone to grasp key insights.
 
 Key highlights:
 
@@ -36,9 +36,9 @@ This project focuses on the following countries:
 
 The notebook explores the following indicators:
 
-1. **Internet Usage** – Percentage of individuals using the Internet.  
-2. **Households with Internet Access** – Percentage of households with access to the Internet at home.  
-3. **Mobile and Mobile-Broadband Subscriptions** – Number of subscriptions over time.  
-4. **ICT Skills: Communication & Collaboration** – Proportion of individuals with basic ICT skills.  
-5. **Household Expenditure on ICT** – Share of total household expenditure spent on ICT goods and services.  
-6. **Global Cybersecurity Index** – Overall cybersecurit
+1. **Internet Usage** - Percentage of individuals using the Internet.  
+2. **Households with Internet Access** - Percentage of households with access to the Internet at home.  
+3. **Mobile and Mobile-Broadband Subscriptions** - Number of subscriptions over time.  
+4. **ICT Skills: Communication & Collaboration** - Proportion of individuals with basic ICT skills.  
+5. **Household Expenditure on ICT** - Share of total household expenditure spent on ICT goods and services.  
+6. **Global Cybersecurity Index** - Overall cybersecurit
